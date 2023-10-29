@@ -1,0 +1,14 @@
+C:\Users\Burhan\source\repos\Custom Generic List\Custom Generic List\bin\Debug\net6.0\Custom Generic List.exe
+C:\Users\Burhan\source\repos\Custom Generic List\Custom Generic List\bin\Debug\net6.0\Custom Generic List.deps.json
+C:\Users\Burhan\source\repos\Custom Generic List\Custom Generic List\bin\Debug\net6.0\Custom Generic List.runtimeconfig.json
+C:\Users\Burhan\source\repos\Custom Generic List\Custom Generic List\bin\Debug\net6.0\Custom Generic List.dll
+C:\Users\Burhan\source\repos\Custom Generic List\Custom Generic List\bin\Debug\net6.0\Custom Generic List.pdb
+C:\Users\Burhan\source\repos\Custom Generic List\Custom Generic List\obj\Debug\net6.0\Custom Generic List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burhan\source\repos\Custom Generic List\Custom Generic List\obj\Debug\net6.0\Custom Generic List.AssemblyInfoInputs.cache
+C:\Users\Burhan\source\repos\Custom Generic List\Custom Generic List\obj\Debug\net6.0\Custom Generic List.AssemblyInfo.cs
+C:\Users\Burhan\source\repos\Custom Generic List\Custom Generic List\obj\Debug\net6.0\Custom Generic List.csproj.CoreCompileInputs.cache
+C:\Users\Burhan\source\repos\Custom Generic List\Custom Generic List\obj\Debug\net6.0\Custom Generic List.dll
+C:\Users\Burhan\source\repos\Custom Generic List\Custom Generic List\obj\Debug\net6.0\refint\Custom Generic List.dll
+C:\Users\Burhan\source\repos\Custom Generic List\Custom Generic List\obj\Debug\net6.0\Custom Generic List.pdb
+C:\Users\Burhan\source\repos\Custom Generic List\Custom Generic List\obj\Debug\net6.0\Custom Generic List.genruntimeconfig.cache
+C:\Users\Burhan\source\repos\Custom Generic List\Custom Generic List\obj\Debug\net6.0\ref\Custom Generic List.dll
